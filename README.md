@@ -1,5 +1,5 @@
 # NFC telegram auth
-##Simple app for auth through NFC on mobile phone
+## Simple app for auth through NFC on mobile phone
 
 **Index:**
 1. [Installation](#installation)
@@ -7,7 +7,7 @@
 
 
 
-##Installation:
+## Installation:
 1. Download NFC Tools for NFC function with this script
 2. Setup your NFC Tag with this app
 3. Download this script, change password and add it to startup
