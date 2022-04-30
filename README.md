@@ -3,7 +3,6 @@
 
 **Index:**
 1. [Installation](#installation)
-2. 
 
 
 
